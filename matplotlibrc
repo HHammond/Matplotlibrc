@@ -1,8 +1,8 @@
 # Friendly Matplotlib Config
 
-lines.linewidth: 1.65
+lines.linewidth: 1.50
 lines.linestyle: -
-lines.antialised: True
+lines.antialiased: True
 
 # Colors from https://github.com/mbostock/d3/wiki/Ordinal-Scales#category20
 axes.color_cycle: 1F77B4, AEC7E8, FF7F0E, FFBB78, 2CA02C, 98DF8A, D62728, FF9896, 9467BD, C5B0D5, 8C564B, C49C94 

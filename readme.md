@@ -2,6 +2,8 @@
 
 This matplotlibrc file uses colours from [D3](http://d3js.org/).
 
+![](http://i.imgur.com/e8912PI.png)
+
 ![](http://i.imgur.com/OQYa9Ss.png)
 
 ![](http://i.imgur.com/0iEUgSj.png)
